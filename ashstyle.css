@@ -113,14 +113,6 @@ https://travishorn.com/responsive-grid-in-2-minutes-with-css-grid-layout-4842a41
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
-/* .city {
-  font-size: 1.2rem;
-  font-weight: 600;
-  margin-top: 0;
-  padding-bottom: 0;
-  margin-bottom: 0;
-} */
-
 .city {
   font-size: 1.2rem;
   font-weight: 600;
@@ -136,6 +128,13 @@ https://travishorn.com/responsive-grid-in-2-minutes-with-css-grid-layout-4842a41
 }
 
 .details {
+  font-size: 0.9rem;
+  font-weight: 200;
+  line-height: 1.3rem;
+  margin-top: 0.5rem;
+}
+
+.details a {
   font-size: 0.9rem;
   font-weight: 200;
   line-height: 1.3rem;
