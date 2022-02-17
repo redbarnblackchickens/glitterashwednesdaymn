@@ -68,7 +68,7 @@ li,
 button {
   /* font-family: 'Montserrat', sans-serif;  */
   font-family: Domine, serif;
-  font-size: 1rem;
+  /* font-size: 1rem; */
   line-height: 1.6rem;
 }
 
@@ -154,8 +154,8 @@ footer {
   font-family: "Montserrat", sans-serif;
   font-size: 0.9rem;
   font-weight: 400;
-  line-height: 1rem;
-  max-width: 80ch;
+  line-height: 1.3rem;
+  max-width: 84ch;
 }
 
 .hero {
