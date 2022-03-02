@@ -183,6 +183,19 @@ footer {
   text-align: center;
 }
 
+.nav {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+color: white;
+}
+
+.nav-container {
+  background-color: #2d4c6b;
+  padding-top: .5em;
+  padding-bottom: .5em;
+
+}
+
 .schedule {
   margin-top: 2rem;
 }
